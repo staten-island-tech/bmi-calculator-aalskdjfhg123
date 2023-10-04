@@ -17,8 +17,8 @@ function calc() {
         }
     }
 }
-/* const bmi = calc();
-
+ const bmi = calc();
+/*
 function health() {
     const bmi = calc();
 
