@@ -9,7 +9,7 @@ function calc() {
         if (bmi < 18.5) {
             alert("You are underweight");
         }
-        else if (bmi > 18.5 && bmi < 25) {
+        else if (bmi >= 18.5 && bmi < 25) {
             alert("You are healthy");
         } 
         else {
